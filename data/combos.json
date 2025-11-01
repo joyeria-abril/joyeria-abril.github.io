@@ -1,0 +1,20 @@
+[
+    {
+        "name": "Combo Amor Eterno",
+        "image": "combo_amor.jpg",
+        "price": "180.00",
+        "description": "Incluye un collar de corazón y pendientes a juego. El regalo perfecto."
+    },
+    {
+        "name": "Combo Buena Suerte",
+        "image": "combo_suerte.jpg",
+        "price": "120.00",
+        "description": "Pulsera de trébol y colgante de herradura. Atrae la fortuna."
+    },
+    {
+        "name": "Combo Noche Estelar",
+        "image": "combo_estrella.jpg",
+        "price": "240.00",
+        "description": "Conjunto de estrella fugaz y luna. El brillo del cielo en tu look."
+    }
+]

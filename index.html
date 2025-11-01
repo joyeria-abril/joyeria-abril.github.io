@@ -1,0 +1,68 @@
+<!doctype html>
+<html lang="es">
+
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Joyería Abril</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="./style.css">
+</head>
+
+<body>
+  <div class="container">
+    <header>
+      <div class="brand">
+        <div class="logo">JA</div>
+        <div>
+          <h1>Joyería Abril</h1>
+          <p>Brazaletes Italianos: Brillo Personalizado</p>
+        </div>
+      </div>
+      <nav aria-label="menu">
+        <strong>Contacto:</strong> 941 752 298
+      </nav>
+    </header>
+
+    <div class="slider" id="slider">
+      <div class="slides" id="slides"></div>
+      <button class="nav-btn left" id="prev">❮</button>
+      <button class="nav-btn right" id="next">❯</button>
+      <div class="dots" id="dots"></div>
+    </div>
+
+    <section id="basics-section">
+      <div class="section-header">
+        <h3>Clásicos</h3>
+        <small class="muted">Estilo minimalista 😎</small>
+      </div>
+      <div class="grid cols-3" id="basics-grid"></div>
+    </section>
+
+    <section id="combos-section">
+      <div class="section-header">
+        <h3>Combos</h3>
+        <small class="muted">Personalízalos para ti 🤗</small>
+      </div>
+      <div class="grid cols-3" id="combos-grid"></div>
+    </section>
+
+    <section id="charms-section">
+      <div class="section-header">
+        <h3>Charms</h3>
+        <small class="muted">Combínalos y estilízate ☺️</small>
+      </div>
+      <div class="grid cols-3" id="charms-grid"></div>
+    </section>
+
+    <footer>
+      © <span id="year"></span> Joyería Abril — Todos los derechos reservados
+    </footer>
+  </div>
+
+  <script src="./script.js"></script>
+</body>
+
+</html>

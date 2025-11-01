@@ -1,0 +1,45 @@
+[
+    {
+        "name": "Charm de Corazón",
+        "image": "charm_corazon.jpg",
+        "material": "Plata de Ley",
+        "price": "25.00",
+        "description": "El clásico charm de amor, ideal para cualquier pulsera."
+    },
+    {
+        "name": "Charm de Gato",
+        "image": "charm_gato.jpg",
+        "material": "Oro Rosado",
+        "price": "35.00",
+        "description": "Un detalle felino con un acabado adorable."
+    },
+    {
+        "name": "Charm Viajero",
+        "image": "charm_maleta.jpg",
+        "material": "Plata y Esmalte",
+        "price": "30.00",
+        "description": "Maleta miniatura para recordar tus aventuras."
+    },
+    {
+        "name": "Charm de Corazón",
+        "image": "charm_corazon.jpg",
+        "material": "Plata de Ley",
+        "price": "25.00",
+        "description": "El clásico charm de amor, ideal para cualquier pulsera."
+    },
+    {
+        "name": "Charm de Gato",
+        "image": "charm_gato.jpg",
+        "material": "Oro Rosado",
+        "price": "35.00",
+        "description": "Un detalle felino con un acabado adorable."
+    },
+    {
+        "name": "Charm Viajero",
+        "image": "charm_maleta.jpg",
+        "material": "Plata y Esmalte",
+        "price": "30.00",
+        "description": "Maleta miniatura para recordar tus aventuras."
+    }
+
+]

@@ -1,0 +1,20 @@
+[
+    {
+        "name": "Pulsera Minimalista Plateada",
+        "image": "basico_plata.jpg",
+        "price": "45.00",
+        "description": "Un clásico atemporal en plata de ley 925. Ideal para el día a día."
+    },
+    {
+        "name": "Pulsera Elegance Dorada",
+        "image": "basico_oro.jpg",
+        "price": "65.00",
+        "description": "Baño de oro de 18k. Sofisticación y luz para tu muñeca."
+    },
+    {
+        "name": "Pulsera Black Charm",
+        "image": "basico_negra.jpg",
+        "price": "55.00",
+        "description": "Pulsera de obsidiana con detalles en oro blanco. Un toque moderno y audaz."
+    }
+]
