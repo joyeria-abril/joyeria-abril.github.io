@@ -7,24 +7,24 @@ const data = {
     ],
 
     basics: [
-        { id: 'b1', name: 'Pulsera Plateada', img: './static/basicos/pulsera_plateada.png', price: 'S/ 25' },
-        { id: 'b2', name: 'Pulsera Dorada', img: './static/basicos/pulsera_dorada.png', price: 'S/ 25' },
-        { id: 'b3', name: 'Pulsera Negra', img: './static/basicos/pulsera_negra.png', price: 'S/ 25' },
-        { id: 'b4', name: 'Pulsera de Corazones', img: './static/basicos/pulsera_corazones.png', price: 'S/ 25' },
+        { id: 'b1', name: 'Pulsera Plateada', img: './static/basicos/pulsera_plateada.png', price: 'S/ 25.00' },
+        { id: 'b2', name: 'Pulsera Dorada', img: './static/basicos/pulsera_dorada.png', price: 'S/ 25.00' },
+        { id: 'b3', name: 'Pulsera Negra', img: './static/basicos/pulsera_negra.png', price: 'S/ 25.00' },
+        { id: 'b4', name: 'Pulsera de Corazones', img: './static/basicos/pulsera_corazones.png', price: 'S/ 25.00' },
     ],
 
     combos: [
-        // { id: 'c1', name: 'Combo Pet', img: './static/combos/combo_pet.jpeg', items: ['Golden Retriever', 'Corazón'], price: 'S/ 35' },
-        { id: 'c2', name: 'Combo Gema', img: './static/combos/combo_gema.jpeg', items: ['Gema Fortuna', 'Gatito Floreado', 'Cozarón'], price: 'S/ 40' },
-        // { id: 'c3', name: 'Combo Primavera', img: './static/combos/combo_primavera.jpeg', items: ['Patita', 'Flor Primaveral'], price: 'S/ 42' },
-        { id: 'c4', name: 'Combo Cat', img: './static/combos/combo_cat.jpeg', items: ['Gatitos Tú y Yo', 'Gema Fortuna'], price: 'S/ 45' },
-        { id: 'c5', name: 'Combo Pet lover', img: './static/combos/combo_pet_lover.jpeg', items: ['Amigos Fieles', 'Patita'], price: 'S/ 53' },
-        // { id: 'c6', name: 'Combo Flower', img: './static/combos/combo_flower.jpeg', items: ['Gatito Floreado'], price: 'S/ 30' },
+        // { id: 'c1', name: 'Combo Pet', img: './static/combos/combo_pet.jpeg', items: ['Golden Retriever', 'Corazón'], price: 'S/ 35.00' },
+        { id: 'c2', name: 'Combo Gema', img: './static/combos/combo_gema.jpeg', items: ['Gema Fortuna', 'Gatito Floreado', 'Cozarón'], price: 'S/ 40.00' },
+        // { id: 'c3', name: 'Combo Primavera', img: './static/combos/combo_primavera.jpeg', items: ['Patita', 'Flor Primaveral'], price: 'S/ 42.00' },
+        { id: 'c4', name: 'Combo Cat', img: './static/combos/combo_cat.jpeg', items: ['Gatitos Tú y Yo', 'Gema Fortuna'], price: 'S/ 45.00' },
+        { id: 'c5', name: 'Combo Pet lover', img: './static/combos/combo_pet_lover.jpeg', items: ['Amigos Fieles', 'Patita'], price: 'S/ 53.00' },
+        // { id: 'c6', name: 'Combo Flower', img: './static/combos/combo_flower.jpeg', items: ['Gatito Floreado'], price: 'S/ 30.00' },
     ],
 
     charms: [
-        { id: 'ch1', name: 'Spiderman', img: './static/charms/sipderman.png', desc: '', price: 'S/ 5' },
-        { id: 'ch1', name: 'Yin y Yang', img: './static/charms/yin_yang.png', desc: '', price: 'S/ 5' },
+        { id: 'ch1', name: 'Spiderman', img: './static/charms/sipderman.png', desc: '', price: 'S/ 5.00' },
+        { id: 'ch1', name: 'Yin y Yang', img: './static/charms/yin_yang.png', desc: '', price: 'S/ 5.00' },
         
         { id: 'ch1', name: 'Gatito Floreado', img: './static/charms/gatito_floreado.png', desc: '', price: 'S/ 5.00' },
         { id: 'ch2', name: 'Pareja de Gatitos', img: './static/charms/gatitos_tu_y_yo.png', desc: '', price: 'S/ 5.00' },
