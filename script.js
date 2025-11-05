@@ -1,9 +1,9 @@
 // ----- Datos (JSON) - modifica aquí para agregar/quitar items -----
 const data = {
     heroSlides: [
-        { id: 1, img: './static/slide_1.png', title: 'Colección Primavera', text: 'Joyas hechas a mano — plata 925 y baño en oro' },
-        { id: 2, img: './static/slide_2.png', title: 'Anillos de compromiso', text: 'Diseños exclusivos — personalización disponible' },
-        { id: 3, img: './static/slide_3.png', title: 'Novedades 2025', text: 'Pulseras y dijes con acabado premium' },
+        { id: 1, img: './static/slide_1.png', title: 'Diseño italiano, esencia auténtica', text: 'Brazaletes y charms creados para expresar quién eres, sin importar el género ni la ocasión' },
+        { id: 2, img: './static/slide_2.png', title: 'Tu historia, charm por charm', text: 'Combina piezas únicas que representen tus pasiones, tus recuerdos y tu estilo. Cada detalle cuenta' },
+        { id: 3, img: './static/slide_3.png', title: 'Para ella, para él, para ti', text: 'Diseños versátiles con carácter y alma italiana. Hechos para acompañar todas tus versiones' },
     ],
 
     basics: [
